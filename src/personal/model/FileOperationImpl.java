@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FileOperationImpl implements FileOperation {
-
     private String fileName;
 
     public FileOperationImpl(String fileName) {
